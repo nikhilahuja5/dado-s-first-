@@ -1,2 +1,2 @@
-# dado-s-first-
-My first repository
+#first python program
+
